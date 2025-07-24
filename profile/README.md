@@ -4,13 +4,14 @@
 
 ## Links
 
-- [Webfront](https://hgmserve.rs/)
+- [Website](httos://hgmserve.rs)
+- [Webfront](https://cod.hgmserve.rs/)
 - [Discord](https://discord.gg/HGMServers)
-- [Server Stats](https://stats.hgmserve.rs/)
-- [Server Status](https://status.hgmserve.rs/)
-- [Multiplayer Leaderboards](https://mpr.hgmserve.rs/)
-- [Zombie Records](https://zmr.hgmserve.rs/)
-- [HGMServers Radio](https://radio.hgmserve.rs/)
+- [Server Stats](https://hgmserve.rs/graphs)
+- [Server Status](https://hgmserve.rs/status)
+- [Multiplayer Leaderboards](https://hgmserve.rs/multiplayer)
+- [Zombie Records](https://hgmserve.rs/zombies)
+- [HGMServers Radio](https://hgmserve.rs/radio)
 
 ## About HGMServers
 
@@ -22,4 +23,8 @@ Join **HGMServers** today and be part of a thriving Call of Duty community. Whet
 - Real-time server stats and status updates
 - 24/7 radio streaming via HGMServers Radio
 
-Stay connected with us through our [Discord](https://discord.gg/HGMServers) and visit our [Webfront](https://hgmserve.rs/) for more information about the servers and community.
+Stay connected with us through our [Discord](https://discord.gg/HGMServers) and visit our [Website](https://hgmserve.rs/) for more information about the servers and community.
+
+### Partners
+
+- [TME [The Mystic Enclave]](https://tme-hq.de) Proud Partners of HGMServers.
