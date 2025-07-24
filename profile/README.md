@@ -4,7 +4,7 @@
 
 ## Links
 
-- [Website](httos://hgmserve.rs)
+- [Website](https://hgmserve.rs)
 - [Webfront](https://cod.hgmserve.rs/)
 - [Discord](https://discord.gg/HGMServers)
 - [Server Stats](https://hgmserve.rs/graphs)
